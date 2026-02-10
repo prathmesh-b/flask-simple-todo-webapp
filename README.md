@@ -25,6 +25,7 @@ Users can add, edit, mark tasks as completed, and delete tasks.
 ---
 
 ## 📂 Project Structure
+<code>
 Flask_project_todo/
 │
 ├── app.py
@@ -33,3 +34,4 @@ Flask_project_todo/
 │ ├── index.html
 │ └── edit.html
 ├── .gitignore
+</code>
